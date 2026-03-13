@@ -25,8 +25,4 @@ Me gusta aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 
 ---
 
-## 📫 Contacto
-
-Puedes ver mis proyectos aquí:
-
-🔗 **GitHub:** https://github.com/Sebascr2702
+[![GitHub](https://img.shields.io/badge/GitHub-Sebasrc2702-black?style=for-the-badge&logo=github)](https://github.com/Sebasrc2702)
