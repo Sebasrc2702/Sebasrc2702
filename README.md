@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Sebastian
 
-<!--
-**Sebasrc2702/Sebasrc2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Software**  
+📊 Actualmente trabajando como **Analista de Datos**  
+💻 Apasionado por la **programación y la tecnología**  
+🏍️ Fan de las **motos**  
+🎮 Amante de los **videojuegos**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy un estudiante de ingeniería de software enfocado en seguir creciendo en el mundo del desarrollo y el análisis de datos.  
+Me gusta aprender nuevas tecnologías, construir proyectos y mejorar mis habilidades cada día.
+
+---
+
+## 🧠 Tecnologías e intereses
+
+- 📊 Data Analysis
+- 💻 Desarrollo de Software
+- 🌐 Git & GitHub
+- ⚡ JavaScript
+- 🗄️ Bases de datos
+
+---
+
+## 📫 Contacto
+
+Puedes ver mis proyectos aquí:
+
+🔗 **GitHub:** https://github.com/Sebascr2702
