@@ -2,21 +2,22 @@
 
 🎓 Estudiante en el **SENA**  
 📊 Actualmente trabajando como **Analista de Datos**  
-💻 Apasionado por la **tecnología, programación y análisis de datos**  
+💻 Apasionado por la **programación, los datos y la tecnología**  
 🏍️ Fan de las **motocicletas**  
 🎮 Amante de los **videojuegos**
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
-Soy estudiante en el **SENA** y actualmente trabajo como **Analista de Datos**, donde sigo fortaleciendo mis conocimientos en programación y manejo de información.
+Soy estudiante en el **SENA** y actualmente trabajo como **Analista de Datos**.  
+Me encuentro enfocado en el mundo de la **Ciencia de Datos y la Ingeniería de Datos**, con el objetivo de especializarme en el manejo avanzado de **bases de datos y SQL** para trabajar con grandes volúmenes de información.
 
-Me interesa especialmente el mundo de la **Ciencia de Datos y la Ingeniería de Datos**, con el objetivo de especializarme en el manejo avanzado de **bases de datos y SQL** para trabajar con grandes volúmenes de información.
+Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constantemente mis habilidades en programación y datos.
 
 ---
 
-# 🧠 Lenguajes de Programación
+## 🧠 Tecnologías y Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -24,9 +25,13 @@ Me interesa especialmente el mundo de la **Ciencia de Datos y la Ingeniería de 
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
-# 📊 Áreas de interés
+## 📊 Áreas de interés
 
 📈 Ciencia de Datos  
 🗄️ Bases de Datos  
@@ -36,19 +41,18 @@ Me interesa especialmente el mundo de la **Ciencia de Datos y la Ingeniería de 
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Objetivos Profesionales
 
-- Seguir aprendiendo **bases de datos avanzadas**
-- Fortalecer mis habilidades en **SQL**
-- Profundizar en **Ciencia de Datos**
+- Fortalecer mis conocimientos en **bases de datos**
+- Especializarme en **SQL avanzado**
+- Aprender herramientas de **Ciencia de Datos**
 - Convertirme en **Ingeniero de Datos**
 
 ---
 
-# 🌐 Conecta conmigo
+## 🌐 Conecta conmigo
 
-📧 **Correo**  
-sebitas1gabriela@gmail.com  
+[![Email](https://img.shields.io/badge/Email-sebitas1gabriela%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebitas1gabriela@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sebasrc2702-black?style=for-the-badge&logo=github)](https://github.com/Sebasrc2702)
 
@@ -56,4 +60,4 @@ sebitas1gabriela@gmail.com
 
 ---
 
-⭐ Siempre aprendiendo, creando proyectos y creciendo en el mundo de la tecnología.
+⭐ Siempre aprendiendo, construyendo proyectos y creciendo en el mundo de la tecnología.
