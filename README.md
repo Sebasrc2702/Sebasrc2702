@@ -52,7 +52,7 @@ Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constanteme
 
 ## 🌐 Conecta conmigo
 
-[![Email](https://img.shields.io/badge/Email-sebitas1gabriela%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebitas1gabriela@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sebitas1gabriela%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebitas1gabriela@gmail.com?subject=Contacto%20desde%20GitHub)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sebasrc2702-black?style=for-the-badge&logo=github)](https://github.com/Sebasrc2702)
 
