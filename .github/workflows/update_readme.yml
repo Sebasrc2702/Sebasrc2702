@@ -16,6 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
