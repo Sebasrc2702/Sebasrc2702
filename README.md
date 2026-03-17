@@ -17,6 +17,14 @@ Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constanteme
 
 ---
 
+## 🔥 Mi Actividad Reciente
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
+
+
 ## 🧠 Tecnologías y Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
