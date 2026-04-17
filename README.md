@@ -19,12 +19,10 @@ Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constanteme
 
 ## 🔥 Mi Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/Sebasrc2702/tercerRepo/releases/tag/v0.1.0) in [Sebasrc2702/tercerRepo](https://github.com/Sebasrc2702/tercerRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/tercerRepo](https://github.com/Sebasrc2702/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 17th, 2026, 2:32:58 AM
+Last Updated: Friday, April 17th, 2026, 1:18:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
