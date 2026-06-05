@@ -19,13 +19,10 @@ Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constanteme
 
 ## 🔥 Mi Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/Repositorio_Net](https://github.com/Sebasrc2702/Repositorio_Net)<br>
-2. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/Repositorio_Net](https://github.com/Sebasrc2702/Repositorio_Net)<br>
-3. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/Repositorio_Net](https://github.com/Sebasrc2702/Repositorio_Net)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 5th, 2026, 3:41:14 AM
+Last Updated: Friday, June 5th, 2026, 2:49:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
