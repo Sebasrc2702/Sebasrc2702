@@ -5,16 +5,16 @@
 📊 Actualmente trabajando como **Analista de Datos**  
 💻 Apasionado por la **programación, los datos y la tecnología**  
 🏍️ Fan de las **motocicletas**  
-🎮 Amante de los **videojuegos**
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante en el **SENA** y actualmente trabajo como **Analista de Datos**.  
-Me encuentro enfocado en el mundo de la **Ciencia de Datos y la Ingeniería de Datos**, con el objetivo de especializarme en el manejo avanzado de **bases de datos y SQL** para trabajar con grandes volúmenes de información.
+Soy tecnólogo en Análisis y Desarrollo de Software del **SENA** y estudiante de ingeniería virtual. Actualmente me desempeño en el área de datos, lo que me ha permitido adquirir una sólida experiencia en la gestión y estructura de información. 
 
-Me gusta construir proyectos, aprender nuevas tecnologías y mejorar constantemente mis habilidades en programación y datos.
+Mi enfoque principal y pasión es el **Desarrollo Backend**, especializado en el ecosistema de **Java, Spring y Spring Boot**. Me apasiona profundizar en la **Programación Orientada a Objetos (POO)**, la arquitectura de software limpia y la creación de REST APIs eficientes. Gracias a mi experiencia técnica, combino la lógica del lado del servidor con un dominio avanzado de **bases de datos y SQL (PostgreSQL y MySQL)**, lo que me permite diseñar sistemas robustos capaces de procesar información a gran escala con un alto rendimiento.
+
+Me motiva construir proyectos desde cero, resolver problemas complejos mediante código estructurado y mantenible, y mantenerme en constante aprendizaje de las mejores prácticas de la industria.
 
 ---
 
@@ -45,20 +45,20 @@ Last Updated: Tuesday, June 30th, 2026, 2:16:34 PM
 
 ## 📊 Áreas de interés
 
-📈 Ciencia de Datos  
-🗄️ Bases de Datos  
-⚙️ Ingeniería de Datos  
-📊 Análisis de Datos  
-💻 Desarrollo de Software  
+💻 Desarrollo Backend (Java / Spring Boot)  
+🧠 Programación Orientada a Objetos (POO) & Arquitectura  
+🗄️ Diseño y Optimización de Bases de Datos (SQL)  
+⚙️ Construcción de REST APIs y Microservicios  
+📈 Ingeniería de Datos & Arquitecturas Robustas  
 
 ---
 
 ## 🎯 Objetivos Profesionales
 
-- **Dominar el Desarrollo Backend con Java:** Consolidar mis habilidades en el ecosistema de Java, dominando frameworks clave como **Spring y Spring Boot** para construir aplicaciones y REST APIs robustas, escalables y eficientes.
-- **Arquitectura de Software y POO Avanzado:** Profundizar en los principios de la **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas (como principios SOLID) para escribir código limpio, mantenible y de calidad profesional.
-- **Especialización en Bases de Datos y SQL:** Fortalecer el diseño, optimización y gestión de bases de datos relacionales como **PostgreSQL y MySQL Server**, dominando SQL avanzado para el manejo eficiente de grandes volúmenes de información.
-- **Evolución hacia la Ingeniería de Datos:** Integrar el desarrollo backend en Java con herramientas y arquitecturas de datos modernas, con el fin de especializarme en la construcción de pipelines de datos y consolidar mi perfil como **Ingeniero de Datos**.
+- **Consolidarme como Desarrollador Backend Java:** Enfocar mi carrera en el diseño e implementación de la lógica del lado del servidor, dominando **Spring Framework y Spring Boot** para el despliegue de aplicaciones y microservicios empresariales de alto rendimiento.
+- **Excelencia en POO y Patrones de Diseño:** Aplicar a fondo los principios de la **Programación Orientada a Objetos (POO)**, principios SOLID y patrones de arquitectura de software para asegurar un código limpio, modular, escalable y fácil de mantener.
+- **Dominio Avanzado en Persistencia y Bases de Datos:** Especializarme en la integración, tuning y optimización de bases de datos relacionales (**PostgreSQL y MySQL Server**) desde el backend, construyendo consultas SQL complejas y eficientes.
+- **Sinergia con Ingeniería de Datos:** Utilizar mis bases en desarrollo backend sólido con Java para diseñar, estructurar y optimizar pipelines de datos eficientes, uniendo el desarrollo de software clásico con las necesidades del procesamiento de datos a gran escala.
 ---
 
 ## 🌐 Conecta conmigo
