@@ -1,6 +1,7 @@
 # 👋 Hola, soy Sebastian Ruiz
 
-🎓 Estudiante en el **SENA**  
+🎓 Tecnólogo en **ANÁLISIS Y DESARROLLO DE SOFTWARE** — SENA  
+🏛️ Estudiante de **UNIMINUTO** Villavicencio  
 📊 Actualmente trabajando como **Analista de Datos**  
 💻 Apasionado por la **programación, los datos y la tecnología**  
 🏍️ Fan de las **motocicletas**  
@@ -29,14 +30,16 @@ Last Updated: Tuesday, June 30th, 2026, 2:16:34 PM
 ## 🧠 Tecnologías y Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -52,11 +55,10 @@ Last Updated: Tuesday, June 30th, 2026, 2:16:34 PM
 
 ## 🎯 Objetivos Profesionales
 
-- Fortalecer mis conocimientos en **bases de datos**
-- Especializarme en **SQL avanzado**
-- Aprender herramientas de **Ciencia de Datos**
-- Convertirme en **Ingeniero de Datos**
-
+- **Dominar el Desarrollo Backend con Java:** Consolidar mis habilidades en el ecosistema de Java, dominando frameworks clave como **Spring y Spring Boot** para construir aplicaciones y REST APIs robustas, escalables y eficientes.
+- **Arquitectura de Software y POO Avanzado:** Profundizar en los principios de la **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas (como principios SOLID) para escribir código limpio, mantenible y de calidad profesional.
+- **Especialización en Bases de Datos y SQL:** Fortalecer el diseño, optimización y gestión de bases de datos relacionales como **PostgreSQL y MySQL Server**, dominando SQL avanzado para el manejo eficiente de grandes volúmenes de información.
+- **Evolución hacia la Ingeniería de Datos:** Integrar el desarrollo backend en Java con herramientas y arquitecturas de datos modernas, con el fin de especializarme en la construcción de pipelines de datos y consolidar mi perfil como **Ingeniero de Datos**.
 ---
 
 ## 🌐 Conecta conmigo
