@@ -20,15 +20,15 @@ Me motiva construir proyectos desde cero, resolver problemas complejos mediante 
 
 ## 🔥 Mi Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Sebasrc2702/swarm](https://github.com/Sebasrc2702/swarm) from [platzi/swarm](https://github.com/platzi/swarm)<br>
-2. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/docker-avanzado](https://github.com/Sebasrc2702/docker-avanzado)<br>
+1. 🔱 Forked [Sebasrc2702/kubernetes](https://github.com/Sebasrc2702/kubernetes) from [platzi/kubernetes](https://github.com/platzi/kubernetes)<br>
+2. 🔱 Forked [Sebasrc2702/swarm](https://github.com/Sebasrc2702/swarm) from [platzi/swarm](https://github.com/platzi/swarm)<br>
 3. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/docker-avanzado](https://github.com/Sebasrc2702/docker-avanzado)<br>
 4. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/docker-avanzado](https://github.com/Sebasrc2702/docker-avanzado)<br>
 5. ⬆️ Pushed undefined commit(s) to [Sebasrc2702/docker-avanzado](https://github.com/Sebasrc2702/docker-avanzado)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 24th, 2026, 9:56:17 PM
+Last Updated: Wednesday, November 25th, 2026, 7:07:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
